@@ -31,7 +31,7 @@ Alle können mithelfen, fehlende Daten zu ergänzen.
 
 - Geht immer nur für eine Uni
 - Im entsprechenden Uni-Ordner `terms.yaml` bearbeiten.
-- Das Format
+- Beim Format an an einer bestehenden `terms.yaml` orientieren und die universitätsspezifischen Vorlesungszeiten sowie Feiertage eintragen.
 
 ## Anleitungen schreiben
 
